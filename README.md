@@ -1,1 +1,1 @@
-gentle-kitten-bf3c24.netlify.app
+https://gentle-kitten-bf3c24.netlify.app/
